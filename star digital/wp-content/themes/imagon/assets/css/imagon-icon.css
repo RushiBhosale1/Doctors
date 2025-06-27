@@ -1,0 +1,301 @@
+/*!
+
+*    ______ _       _   _
+
+*    |  ____| |     | | (_)
+
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+
+*    | |    | | (_| | |_| | (_| (_) | | | |
+
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+
+*
+
+*         https://www.flaticon.com
+
+*/
+
+@font-face {
+    font-family: "flaticon_imagon";
+    src: url("../fonts/flaticon_imagon.woff2?7cb9d349193b0811f415f700176944ed") format("woff2"), url("../fonts/flaticon_imagon.woff?7cb9d349193b0811f415f700176944ed") format("woff"), url("../fonts/flaticon_imagon.eot?7cb9d349193b0811f415f700176944ed#iefix") format("embedded-opentype"), url("../fonts/flaticon_imagon.ttf?7cb9d349193b0811f415f700176944ed") format("truetype")
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+    font-family: flaticon_imagon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: inherit !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: -0.125em;
+}
+
+.flaticon-fast-forward-double-right-arrows-symbol:before {
+    content: "\f101";
+}
+
+.flaticon-select:before {
+    content: "\f102";
+}
+
+.flaticon-search:before {
+    content: "\f103";
+}
+
+.flaticon-left-quote:before {
+    content: "\f104";
+}
+
+.flaticon-radiography:before {
+    content: "\f105";
+}
+
+.flaticon-call:before {
+    content: "\f106";
+}
+
+.flaticon-play:before {
+    content: "\f107";
+}
+
+.flaticon-share:before {
+    content: "\f108";
+}
+
+.flaticon-phone-call:before {
+    content: "\f109";
+}
+
+.flaticon-comment:before {
+    content: "\f10a";
+}
+
+.flaticon-paper-plane:before {
+    content: "\f10b";
+}
+
+.flaticon-ct-scan:before {
+    content: "\f10c";
+}
+
+.flaticon-map-location:before {
+    content: "\f10d";
+}
+
+.flaticon-ultrasound:before {
+    content: "\f10e";
+}
+
+.flaticon-ct-scan-1:before {
+    content: "\f10f";
+}
+
+.flaticon-calendar:before {
+    content: "\f110";
+}
+
+.flaticon-reply:before {
+    content: "\f111";
+}
+
+.flaticon-user:before {
+    content: "\f112";
+}
+
+.flaticon-location-pin:before {
+    content: "\f113";
+}
+
+.flaticon-email:before {
+    content: "\f114";
+}
+
+.flaticon-up-right-arrow:before {
+    content: "\f115";
+}
+
+.flaticon-check-mark:before {
+    content: "\f116";
+}
+
+.flaticon-ct-scan-2:before {
+    content: "\f117";
+}
+
+.flaticon-ultrasound-1:before {
+    content: "\f118";
+}
+
+.flaticon-x-rays:before {
+    content: "\f119";
+}
+
+.flaticon-ultrasound-2:before {
+    content: "\f11a";
+}
+
+.flaticon-folder:before {
+    content: "\f11b";
+}
+
+.flaticon-bone:before {
+    content: "\f11c";
+}
+
+.flaticon-bone-density:before {
+    content: "\f11d";
+}
+
+.flaticon-mammography:before {
+    content: "\f11e";
+}
+
+.flaticon-dental:before {
+    content: "\f11f";
+}
+
+.flaticon-mammography-1:before {
+    content: "\f120";
+}
+
+.flaticon-x-ray:before {
+    content: "\f121";
+}
+
+.flaticon-osteoporosis:before {
+    content: "\f122";
+}
+
+.flaticon-right-up:before {
+    content: "\f123";
+}
+
+.flaticon-ct-scan-3:before {
+    content: "\f124";
+}
+
+.flaticon-mri:before {
+    content: "\f125";
+}
+
+.flaticon-densiometry:before {
+    content: "\f126";
+}
+
+.flaticon-mammography-2:before {
+    content: "\f127";
+}
+
+.flaticon-bone-1:before {
+    content: "\f128";
+}
+
+.flaticon-ultrasound-3:before {
+    content: "\f129";
+}
+
+.flaticon-download:before {
+    content: "\f12a";
+}
+
+.flaticon-x-rays-1:before {
+    content: "\f12b";
+}
+
+.flaticon-exam:before {
+    content: "\f12c";
+}
+
+.flaticon-mammography-3:before {
+    content: "\f12d";
+}
+
+.flaticon-medical-record:before {
+    content: "\f12e";
+}
+
+.flaticon-left:before {
+    content: "\f12f";
+}
+
+.flaticon-right:before {
+    content: "\f130";
+}
+
+.flaticon-x-ray-1:before {
+    content: "\f131";
+}
+
+.flaticon-radiation:before {
+    content: "\f132";
+}
+
+.flaticon-body-scan:before {
+    content: "\f133";
+}
+
+.flaticon-left-1:before {
+    content: "\f134";
+}
+
+.flaticon-arrow-top:before {
+    content: "\f135";
+}
+
+.flaticon-medical:before {
+    content: "\f136";
+}
+
+.flaticon-x-ray-2:before {
+    content: "\f137";
+}
+
+.flaticon-ultrasound-4:before {
+    content: "\f138";
+}
+
+.flaticon-machine:before {
+    content: "\f139";
+}
+
+.flaticon-ultrasound-5:before {
+    content: "\f13a";
+}
+
+.flaticon-paper:before {
+    content: "\f13b";
+}
+
+.flaticon-test-results:before {
+    content: "\f13c";
+}
+
+.flaticon-medical-1:before {
+    content: "\f13d";
+}
+
+.flaticon-envelope:before {
+    content: "\f13e";
+}
+
+.flaticon-diagnostic-imaging:before {
+    content: "\f13f";
+}
+
+.flaticon-imaging:before {
+    content: "\f140";
+}
+
+.flaticon-medical-insurance:before {
+    content: "\f141";
+}
+
+.flaticon-medication:before {
+    content: "\f142";
+}
